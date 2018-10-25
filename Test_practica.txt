@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Carlos Solano
+=======
+Carlos Gilian
+>>>>>>> Secundaria
